@@ -1,0 +1,35 @@
+~
+Which of the following companies would eventually be renamed IBM?
+A) International Computer Company
+B) Computing-Tabulating-Recording Company
+C) American Computer Clock Company
+D) North American Adding Machine Company
+..B
+~
+Which of the following locations is IBM's first manufacturing facility and designated "Plant No. 1"?
+A)Rochester, M.N.
+B)Tucson, A.Z.
+C)Endicott, N.Y.
+D)Brooklyn, N.Y.
+..C
+~
+Who was IBM's first president and chairman?
+A)George W. Fairchild
+B)Thomas J. Watson
+C)John F. Akers
+D)Louis V. Gerstner, Jr.
+..B
+~
+IBM chairman Thomas J. Watson introduced which of the following mottos, which become a symbol of IBM?
+A)LEARN
+B)KNOW
+C)INSPIRE
+D)THINK
+..D
+~
+In 1957, IBM introduced which of the following computer languages?
+A)Pascal
+B)BASIC
+C)C
+D)FORTRAN
+..D
